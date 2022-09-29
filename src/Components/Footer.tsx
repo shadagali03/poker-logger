@@ -16,12 +16,8 @@ const FooterContainer = styled.div`
     font-family: 'Amiko', serif;
     display: flex;
     background-color: rgb(217,217,217);
-    padding-top: 30px;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
+    margin-top: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     justify-content: center;
-`;
-const EmojiContainer = styled.div`
-
 `;

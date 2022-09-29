@@ -35,5 +35,5 @@ function Socials({ mycolor = 'white' }) {
 export default Socials;
 
 const Container1 = styled.div`
-    margin-right: 80px;
+    padding-bottom: 20px;
 `;

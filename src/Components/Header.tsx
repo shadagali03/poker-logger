@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components';
-import logo from '../Components/logo.png'
+import logo from '../components/logo.png'
 import SearchIcon from '@mui/icons-material/Search';
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
